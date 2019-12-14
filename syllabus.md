@@ -97,4 +97,7 @@ Please find the syllbaus [here](/static_files/materials/Syllabus.pdf).
   </tbody>
 </table>
 
-
+سلام 
+سلام سلام 
+/سلام 
+|سلام  
