@@ -6,7 +6,7 @@ permalink: /syllabus/
 
 Please find the syllbaus [here](/static_files/materials/Syllabus.pdf).
 
-
+<link rel="stylesheet" href="https://cdn.rtlcss.com/bootstrap/v4.2.1/css/bootstrap.min.css" integrity="sha384-vus3nQHTD+5mpDiZ4rkEPlnkcyTP+49BhJ4wJeJunw06ZAp+wzzeBPUXr42fi8If" crossorigin="anonymous">
 
 <table class="table table-striped table-dark">
   <thead>
