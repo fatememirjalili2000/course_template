@@ -46,10 +46,12 @@ Please find the syllbaus [here](/static_files/materials/Syllabus.pdf).
 [2] R. E. Ziemer, W. H. Tranter, and D. R. Fannin , Signals and Systems , Continuous and Discrete. 4th ed., Prentice - H all, 0118.
 [3] S. Haykin and B. Van Veen, Signals and Systems. 2nd ed., Wiley, 2113.</td>
     </tr>
+    <tr>
      <th scope="row">اهداف درس</th>
       <td>آشنايي با توصيف سيگنالها و تحليل سيستم هاي خطي و تغيير ناپذير با زمان در حوزههاي زمان )پيوسته و
 گسسته( و فرکانس</td>
     </tr>
+    <tr>
      <th scope="row">فهرست مباحث</th>
       <td>مقدمه: مفاهيم و ابزارهاي رياضي پردازش سيگنالها و تحليل سيستمها، تعاريف، خواص و
 تقسيم بنديهاي کلي
@@ -67,21 +69,26 @@ Please find the syllbaus [here](/static_files/materials/Syllabus.pdf).
 .8 تبديل لاپلاس: تعريف، همگرايي، خواص، تابع تبديل و تحليل سيستم هاي LTI )پيوسته زمان(
 .1 تبديل Z : تعريف، همگرايي، خواص، تابع تبديل و تحليل سيستم هاي LSI )گسسته زمان(</td>
     </tr>
+    <tr>
     <th scope="row">نرم افزار هاي مورد نياز</th>
       <td>متلب</td>
     </tr>
+    <tr>
      <th scope="row">تکالیف پیشنهادی</th>
       <td>هفت تکليف دستي</td>
     </tr>
+    <tr>
      <th scope="row">پروژه هاي پيشنهادي</th>
       <td>سه تکليف کامپيوتري با متلب</td>
     </tr>
+    <tr>
     <th scope="row">نمره دهي پيشنهادي</th>
       <td>تکاليف کامپيوتري و گزارش ها
 آزمونهاي کتبي</td>
 <td>40%
 60%</td>
     </tr>
+    <tr>
      <th scope="row">ساير مراجع</th>
       <td></td>
     </tr>
