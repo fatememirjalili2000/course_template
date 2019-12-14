@@ -41,6 +41,7 @@ Please find the syllbaus [here](/static_files/materials/Syllabus.pdf).
       <th scope="row">مطالب پيش نياز</th>
       <td>آشنايي با رياضيات اعداد مختلط، تبديل فوريه و تبديل لاپلاس</td>
     </tr>
+    <tr>
      <th scope="row">کتاب های مرجع</th>
       <td>[0] A. V. Oppenheim, A. S. Willsky, and S.H. Nawab, Signals and Systems. 2nd ed., Prentice- Hall, 0116.
 [2] R. E. Ziemer, W. H. Tranter, and D. R. Fannin , Signals and Systems , Continuous and Discrete. 4th ed., Prentice - H all, 0118.
@@ -97,7 +98,4 @@ Please find the syllbaus [here](/static_files/materials/Syllabus.pdf).
   </tbody>
 </table>
 
-سلام 
-سلام سلام 
-/سلام 
-|سلام  
+
