@@ -6,7 +6,7 @@ permalink: /syllabus/
 
 
 
-<h2>Signals and Systems</h2>h/>
+<h2>Signals and Systems</h2>
 
 <table class="table table-striped table-dark">
   
@@ -60,7 +60,7 @@ Continuous time, discrete time signals, Fourier series convergence, Fourier seri
 Continuous Fourier transform: Definition, convergence, properties, analysis of the systems
 differential with fixed coefficients.</p><br>
           <p>
-6. گسسته Fourier transform: Definition, convergence, properties, analysis of the systems
+6. Seprated Fourier transform: Definition, convergence, properties, analysis of the systems
 Differential amount with fixed coefficients</p><br>
             <p>
 7. Sampling: theorem, ideal and ideal forms, spectral interference phenomena, regeneration.</p><br>
@@ -88,15 +88,13 @@ Discrete time</p><br>
     </tr>
     <tr>
     <th scope="row">Recommended Score</th>
-      <td>Computer assignments and reports 40%
-      Written tests60%
+      <td>Computer assignments and reports 40% Written tests60%
       </tr>
     <tr>
      <th scope="row">Other references</th>
       <td></td>
     </tr>
 
-</tbody>
-</table>
+
 
 
