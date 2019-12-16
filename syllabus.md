@@ -6,90 +6,93 @@ permalink: /syllabus/
 
 
 
-<h2>سیگنال ها و سیستم ها<h/>
+<h2>Signals and Systems</h2>h/>
 
 <table class="table table-striped table-dark">
   
 <tbody>
     <tr>
-      <th scope="row"> نام درس</th>
+      <th scope="row">Course name</th>
       <td>
-سيگنالها و سيستمها</td>
-    </tr>
-      <tr>
-      <th scope="row">نام درس به انگليسي</th>
-      <td>Signals and Systems</td>
-    </tr>
-      <tr>
-      <th scope="row">نوع واحد</th>
-      <td>.3واحداصلي</td>
-      </tr>
-  <tr>
-    <th scope="row">مقطع </th>
-      <td>کارشناسی</td>
-    </tr>
-      <tr>
-      <th scope="row">پیش نیاز</th>
-      <td>ریاضیات مهندسی</td>
-    </tr>
-      <tr>
-      <th scope="row">مطالب پيش نياز</th>
-      <td>آشنايي با رياضيات اعداد مختلط، تبديل فوريه و تبديل لاپلاس</td>
+Signals and Systems</td>
     </tr>
     <tr>
-     <th scope="row">کتاب های مرجع</th>
+      <th scope="row">unit type</th>
+      <td>Basic unit</td>
+      </tr>
+  <tr>
+    <th scope="row">degree </th>
+      <td>Bachelor of Engineering </td>
+    </tr>
+      <tr>
+      <th scope="row">predecessors</th>
+      <td>Mathematics of Engineering</td>
+    </tr>
+      <tr>
+      <th scope="row">predecessor contents</th>
+      <td>Understanding the mathematics of complex numbers, Fourier transform and Laplace transform</td>
+    </tr>
+    <tr>
+     <th scope="row">Reference Books</th>
       <td>[1] A. V. Oppenheim, A. S. Willsky, and S.H. Nawab, Signals and Systems. 2nd ed., Prentice- Hall, 1996.<br>
 [2] R. E. Ziemer, W. H. Tranter, and D. R. Fannin , Signals and Systems , Continuous and Discrete. 4th ed., Prentice - H all, 1998<br>
 [3] S. Haykin and B. Van Veen, Signals and Systems. 2nd ed., Wiley, 2003.</td>
     </tr>
     <tr>
-     <th scope="row">اهداف درس</th>
-      <td>آشنايي با توصيف سيگنالها و تحليل سيستم هاي خطي و تغيير ناپذير با زمان در حوزههاي زمان )پيوسته و
-گسسته( و فرکانس</td>
+     <th scope="row">
+Course Goals</th>
+      <td>Understanding the signals and analysis of linear and non - linear systems with time in the domains of continuous time and frequency.</td> 
     </tr>
     <tr>
-     <th scope="row">فهرست مباحث</th>
+     <th scope="row">List of topics</th>
       <td>
-      <p>1.مقدمه: مفاهيم و ابزارهاي رياضي پردازش سيگنالها و تحليل سيستمها، تعاريف، خواص و
-تقسيم بنديهاي کلي<p/><br>
- <p>2. سيگنالهاي پيوسته زمان و گسسته زمان: نمايش رياضي، ضربه و پله، متناوب، نمايي مختلط، توان
-و انرژي<p/><br>
- <p>3. سيستم هاي خطي و تغيير ناپذير با زمان: پاس ضربه، مفهوم کانولوشن، خواص پاس ضربه، توصيف
-به وسيله معادلات تفاضلي و ديفرانسيل<p/><br>
- <p>4. سري فوريه سيگنالهاي متناوب: اهميت نمايش درمحاسبه پاس سيستم هاي LTI ، سيگنالهاي
-پيوسته زمان، سيگنالهاي گسسته زمان، همگرايي سري فوريه، خواص نمايش سري فوريه<p/><br>
- <p>5. تبديل فوريه پيوسته زمان: تعريف، همگرايي، خواص، تحليل سيستم هاي توصيف شده با معادلات
-ديفرانسيل با ضرائب ثابت<p/><br>
- <p>6. تبديل فوريه گسسته زمان: تعريف، همگرايي، خواص، تحليل سيستم هاي توصيف شده با معادلات
-تفاضلي با ضرائب ثابت<p/><br>
-  <p>7. نمونه برداري: قضيه، فرمهاي ايدهآل و غير ايدهآل، پديده تداخل طيفي، بازسازي<p/><br>
- <p>8. تبديل لاپلاس: تعريف، همگرايي، خواص، تابع تبديل و تحليل سيستم هاي 
- LTI(پيوسته زمان)<p/><br>
- <p>9.تبدیل z:
- تعریف ممگرایی ,خواص,تابع تبدیل و تحلیل سیستم های LSI (گسسته زمان) 
-  <p/><br>
- <p>10. کاربردهاي نوعي<p/><br>
+      <p>
+1.Introduction The concepts and tools of processing the signals and analysis of systems, definitions, properties, and systems analysis.
+General divisions</p><br>
+          <p>2. continuous time and discrete signals of time: mathematical representation, impact, step, frequency,
+and energy</p><br>   
+            <p>3. Line and unchangeable Systems With time: acute pass, the concept of convolution, the properties of impact pass
+by differential and differential equations</p><br>
+      <p>4.
+Fourier series of AC signals: The significance of the calculations in representation of the LTI system, signals
+Continuous time, discrete time signals, Fourier series convergence, Fourier series properties</p><br>
+        <p>5.
+Continuous Fourier transform: Definition, convergence, properties, analysis of the systems
+differential with fixed coefficients.</p><br>
+          <p>
+6. گسسته Fourier transform: Definition, convergence, properties, analysis of the systems
+Differential amount with fixed coefficients</p><br>
+            <p>
+7. Sampling: theorem, ideal and ideal forms, spectral interference phenomena, regeneration.</p><br>
+              <p>.8. Laplace transform: Definition, convergence, Properties, Function and
+Continuous time</p><br>
+                <p>
+
+9.Translation z: Definition, convergence, properties, transformation function and
+Discrete time</p><br>
+                  <p> 10.typical applications</p><br>
+                    
   </td>
     </tr>
     <tr>
-    <th scope="row">نرم افزار هاي مورد نياز</th>
-      <td>متلب</td>
+    <th scope="row">Software required</th>
+      <td>Matlab</td>
     </tr>
     <tr>
-     <th scope="row">تکالیف پیشنهادی</th>
-      <td>هفت تکليف دستي</td>
+     <th scope="row">Proposed tasks</th>
+      <td>7 manual tasks</td>
     </tr>
     <tr>
-     <th scope="row">پروژه هاي پيشنهادي</th>
-      <td>سه تکليف کامپيوتري با متلب</td>
+     <th scope="row">Proposed projects</th>
+      <td>Three functions of a computer with MATLAB</td>
     </tr>
     <tr>
-    <th scope="row">نمره دهي پيشنهادي</th>
-      <td>40%تکاليف کامپيوتري و گزارش ها
-  60%آزمونهاي کتبي</td>
-     </tr>
+    <th scope="row">Recommended Score</th>
+      <td>Computer assignments and reports 40%
+      Written tests60%
+      </tr>
     <tr>
-     <th scope="row">ساير مراجع</th>
+     <th scope="row">Other references</th>
       <td></td>
     </tr>
 
