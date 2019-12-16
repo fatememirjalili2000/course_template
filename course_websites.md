@@ -6,4 +6,4 @@ permalink: /course_websites/
 
 | # |       Course Name                      |   Instructor    | Student Name    | Website URL          |
 |---|:--------------------------------------:|:---------------:|:----------------|---------------------:|
-| 1 | College Orientation and Student Skills |     Eetemadi    |   Pariya Fesahat| https://sauleh.github.io/co98 |
+| 1 | Signals and Systems |     Dr.Mohammadreza Mohammadi    |   Fateme Mirjalili| https://fatememirjalili2000.github.io/course_template |
