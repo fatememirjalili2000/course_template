@@ -86,10 +86,8 @@ Discrete time</p><br>
      <th scope="row">Proposed projects</th>
       <td>Three functions of a computer with MATLAB</td>
     </tr>
-    <tr>
     <th scope="row">Recommended Score</th>
-      <td>Computer assignments and reports 40% Written tests60%
-      </tr>
+      <td>Computer assignments and reports 40% Written tests60%</td>
     <tr>
      <th scope="row">Other references</th>
       <td></td>
