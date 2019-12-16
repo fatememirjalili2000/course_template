@@ -5,10 +5,11 @@ course_description: Course description.
 course_semester: "Fall 2019"
 description: |
     Instructor: Dr.MohammadReza Mohammadi
+    
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/course_template" # the subpath of your site, e.g. /blog/
-url: "http://sauleh.github.io/course_template" # the base hostname & protocol for your site
+url: "http://fatememirjalili2000.github.io/course_template" # the base hostname & protocol for your site
 syllabus: http://fatememirjalili2000.github.io/course_template/syllabus/
 githubdir: 
 

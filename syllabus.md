@@ -6,7 +6,7 @@ permalink: /syllabus/
 
 
 
-<h1>سیگنال ها و سیستم ها<h/>
+<h2>سیگنال ها و سیستم ها<h/>
 
 <table class="table table-striped table-dark">
   
@@ -87,7 +87,7 @@ permalink: /syllabus/
     <th scope="row">نمره دهي پيشنهادي</th>
       <td>40%تکاليف کامپيوتري و گزارش ها
   60%آزمونهاي کتبي</td>
-     k</tr>
+     </tr>
     <tr>
      <th scope="row">ساير مراجع</th>
       <td></td>
