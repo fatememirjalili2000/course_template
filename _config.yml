@@ -15,9 +15,11 @@ githubdir:
 
 # Author/user information
 email: mrmohammadi@iust.ac.ir
-twitter_username: broken_twitter 
-github_username:  broken_github
-authorurl: "http://borken-url.github.io"
+twitter_username: 
+github_username:  
+authorurl:
+google_scholar_page : https://scholar.google.com/citations?user=H34y7Q0AAAAJ&hl=en
+personal_website:http: http://webpages.iust.ac.ir/mrmohammadi/index.html 
 address: |
     School of Computer Engineering
     Iran University of Science and Technology
