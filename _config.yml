@@ -1,10 +1,10 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: Signals and Systems    
-course_description: Course description.
+course_description: A System is any physical set of components that takes a signal, and produces a signal. In terms of engineering, the input is generally some electrical signal X, and the output is another electrical signal(response) Y. However, this may not always be the case.
 course_semester: "Fall 2019"
 description: |
-    Instructor: Dr.MohammadReza Mohammadi
+    Instructor: Dr.Mohammad Reza Mohammadi
     
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
