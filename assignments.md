@@ -18,6 +18,9 @@ permalink: /assignments/
 {% endfor %}
 </ul>
 
+<strong>You can download the assignments here (in PDF format).</strong>
+
+
 <strong>Assignment 1</strong>
 <a href="https://quera.ir/course/assignments/10484/get_pdf_file">PDF</a>
 <br>
