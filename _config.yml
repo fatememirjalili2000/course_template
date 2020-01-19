@@ -40,8 +40,6 @@ future: true
 collections:
     events:
         output: true
-    lectures:
-        output: true
     assignments:
         output: true
     announcements:
