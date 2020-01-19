@@ -17,3 +17,6 @@ permalink: /assignments/
       </li>
 {% endfor %}
 </ul>
+
+
+<a href="../static_files/materials/Kyle Loudon-Mastering Algorithms with C, 3rd Edition  -O'Reilly Media (1999).pdf">PDF</a>
