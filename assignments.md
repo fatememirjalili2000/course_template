@@ -51,7 +51,7 @@ permalink: /assignments/
 <strong>Assignment 11</strong>
 <a href="https://quera.ir/course/assignments/12816/get_pdf_file">PDF</a>
 <br> 
-<strong>Assignment</strong>
+<strong>Simulation Assignment</strong>
 <a href="https://quera.ir/course/assignments/12553/get_pdf_file">PDF</a>
 <br> 
 <strong>Assignment 12</strong>
