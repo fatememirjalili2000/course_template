@@ -18,28 +18,61 @@ permalink: /assignments/
 {% endfor %}
 </ul>
 
-<strong>14 th assignment</strong>
+<strong>Assignment 1</strong>
 <a href="https://quera.ir/course/assignments/10484/get_pdf_file">PDF1</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
-<a href=>PDF</a>
+<br></br>
+<strong>Assignment 2</strong>
+<a href= "https://quera.ir/course/assignments/10574/get_pdf_file">PDF</a>
+<br></br>
+<strong>Assignment 3</strong>
 
+<a href="https://quera.ir/course/assignments/10751/get_pdf_file">PDF</a>
+
+<br></br>
+<strong>Assignment 4</strong>
+
+
+<a href="https://quera.ir/course/assignments/10894/get_pdf_file">PDF</a>
+<br></br>
+<strong>Assignment 5</strong>
+
+<a href="https://quera.ir/course/assignments/11189/get_pdf_file">PDF</a>
+<br></br>
+<strong>Assignment 6</strong>
+
+<a href="https://quera.ir/course/assignments/11360/get_pdf_file ">PDF</a>
+<br></br>
+<strong>Assignment 7</strong>
+
+<a href="https://quera.ir/course/assignments/11611/get_pdf_file">PDF</a>
+<br></br>
+<strong>Assignment 8</strong>
+
+<a href="https://quera.ir/course/assignments/12045/get_pdf_file">PDF</a>
+<br></br>
+<strong>Assignment 9 </strong>
+
+<a href="https://quera.ir/course/assignments/12329/get_pdf_file">PDF</a>
+<br></br>
+<strong>Assignment 10</strong>
+<a href="https://quera.ir/course/assignments/12551/get_pdf_file">PDF</a>
+<br></br>
+<strong>Assignment 11</strong>
+
+<a href="https://quera.ir/course/assignments/12816/get_pdf_file">PDF</a>
+<br></br>
+<strong>Assignment</strong>
+
+<a href="https://quera.ir/course/assignments/12553/get_pdf_file">PDF</a>
+<br></br>
+<strong>Assignment 12</strong>
+
+<a href="https://quera.ir/course/assignments/13097/get_pdf_file">PDF</a>
+<br></br>
+<strong>Assignment 13</strong>
+
+<a href="https://quera.ir/course/assignments/13251/get_pdf_file">PDF</a>
+<br></br>
+<strong>Assignment 14</strong>
+<a href="https://quera.ir/course/assignments/13457/get_pdf_file">PDF</a>
 
