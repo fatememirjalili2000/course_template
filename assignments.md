@@ -19,4 +19,4 @@ permalink: /assignments/
 </ul>
 
 
-<a href="e:\assign\">PDF</a>
+<a href="https://quera.ir/course/assignments/13457/get_pdf_file">PDF</a>
