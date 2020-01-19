@@ -19,4 +19,27 @@ permalink: /assignments/
 </ul>
 
 <strong>14 th assignment</strong>
-<a href="https://quera.ir/course/assignments/13457/get_pdf_file">PDF</a>
+<a href="https://quera.ir/course/assignments/10484/get_pdf_file">PDF1</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+<a href=>PDF</a>
+
+
